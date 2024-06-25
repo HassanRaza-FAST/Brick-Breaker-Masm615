@@ -2,25 +2,18 @@
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.png)
+![1](https://github.com/HassanRaza-FAST/Brick-Breaker-Masm615/assets/152514035/ba372c79-750e-452e-a057-015457054a4f)
 
+![2](https://github.com/HassanRaza-FAST/Brick-Breaker-Masm615/assets/152514035/1a2ab20c-50e4-465d-a0ca-6637a5d75bbf)
 
-![Screenshot 2](screenshots/2.png)
+![3](https://github.com/HassanRaza-FAST/Brick-Breaker-Masm615/assets/152514035/91739952-c6af-42c7-b6b4-3130b73b27be)
 
+![6](https://github.com/HassanRaza-FAST/Brick-Breaker-Masm615/assets/152514035/09842a1e-352b-4d4a-850f-4512e5aac0d2)
 
-![Screenshot 3](screenshots/3.png)
+![7](https://github.com/HassanRaza-FAST/Brick-Breaker-Masm615/assets/152514035/8319e33a-3ee2-4ccf-8e59-1d3751840b15)
 
+![5](https://github.com/HassanRaza-FAST/Brick-Breaker-Masm615/assets/152514035/fe4add30-5ed3-46ff-8067-d1790fa9a0c3)
 
-![Screenshot 4](screenshots/4.png)
-
-
-![Screenshot 5](screenshots/5.png)
-
-
-![Screenshot 6](screenshots/6.png)
-
-
-![Screenshot 7](screenshots/7.png)
 
 
 ## Description
